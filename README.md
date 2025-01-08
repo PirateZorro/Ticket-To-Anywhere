@@ -35,8 +35,8 @@ Follow these steps to set up the project locally:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/PirateZorro/Ticket-to-Anywhere.git
-   cd Ticket-to-Anywhere
+   git clone [https://github.com/PirateZorro/Ticket-to-Anywhere.git
+   cd Ticket-to-Anywhere]
    ```
 
 2. **Install dependencies:**
